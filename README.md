@@ -7,20 +7,19 @@ An AI-powered multilingual farming advisor with voice support, document processi
 
 # 🚀 How to Run the Streamlit App
 
-# 1️⃣ Install all required libraries
-pip install -r requirements.txt
+- 1️⃣ Install all required libraries
+-pip install -r requirements.txt
+ 
+-2️⃣ Open 'app.py' and replace the placeholders:
+-    Replace ➤ "Replace with your actual NVIDIA API key"
+-         with ➤ your actual NVIDIA API key
+-    Replace ➤ "Replace with your actual OpenWeatherMap API key"
+-         with ➤ your actual OpenWeatherMap API key
 
-# 2️⃣ Open 'app.py' and replace the placeholders:
-#    Replace ➤ "Replace with your actual NVIDIA API key"
-#         with ➤ your actual NVIDIA API key
-#    Replace ➤ "Replace with your actual OpenWeatherMap API key"
-#         with ➤ your actual OpenWeatherMap API key
-
-# NVIDIA_API_KEY = "your_nvidia_api_key_here"
-# WEATHER_API_KEY = "your_openweather_api_key_here"
-
-# 3️⃣ Launch the app
-streamlit run app.py
+- NVIDIA_API_KEY = "your_nvidia_api_key_here"
+- WEATHER_API_KEY = "your_openweather_api_key_here"
+-3️⃣ Launch the app
+-streamlit run app.py
 
 ## ✨ Features
 
