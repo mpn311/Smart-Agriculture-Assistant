@@ -2,6 +2,9 @@
 
 An AI-powered multilingual farming advisor with voice support, document processing, and real-time weather integration.
 
+## 🏗️ Architecture
+![architecture](https://github.com/user-attachments/assets/a96a25d0-4cd3-4f3c-8f08-959a955f5cfe)
+
 ## ✨ Features
 
 ### 🌍 Multilingual Support
@@ -69,10 +72,6 @@ Ask weather-related questions like:
 Get weather-informed agricultural advice:
 - "What crops are suitable for Delhi in current weather?"
 - "Should I plant rice in Mumbai this season?"
-
-## 🏗️ Architecture
-
-
 
 ### Data Flow
 1. **Input Processing**: Voice/text input with language detection
