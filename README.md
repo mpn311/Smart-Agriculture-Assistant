@@ -21,6 +21,7 @@ An AI-powered multilingual farming advisor with voice support, document processi
   
 3️⃣ Launch the app
 - streamlit run app.py
+  
 --
 ## ✨ Features
 
